@@ -5,4 +5,4 @@ A collection of random scripts that I needed at one time in history. They may be
 
 | Name | What? | Why? | Link |
 | - | - | - | - |
-| CHMOD 400 Windows Simulator | It gives a file permissions of chmod 400. (may make a full chmod version later) | To enable SSH for AWS public key (.pem) in VScode on Windows. | [chmod400.ps1](https://github.com/AbdAsh/Random-scripts/chmod400.ps1) |
+| CHMOD 400 Windows Simulator | It gives a file permissions of chmod 400. (may make a full chmod version later) | To enable SSH for AWS public key (.pem) in VScode on Windows. | [chmod400.ps1](https://github.com/AbdAsh/Random-scripts/blob/main/chmod400.ps1) |
